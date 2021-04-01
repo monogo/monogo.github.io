@@ -68,19 +68,19 @@ spur 马刺 ac cure 治愈 dial 转盘 reg 注册
 16.机械计时器的发展促使人们寻求更精确的日晷，以便校准机械计时器。
 
 17. Anthropology is a science in that anthropologists use a rigorous set of methods and techniques to document observations that can be checked by others.
-
+rig 刚硬 strict 束缚 ob serve
 17.人类学是一门科学，因为人类学家采用一整套强有力的方法和技术来记录观测结果，而这样记录下来的观测结果是供他人核查的。
 
 18. Fungi are important in the process of decay, which returns ingredients to the soil, enhances soil fertility, and decomposes animal debris.
-
+fungus 真菌 mushroom 蘑菇 decay DK in grade enhance 多强 improve 强 imcrease 多 de compose 组合 de break
 18.真菌在腐化过程中十分重要，而腐化过程将化学物质回馈于土壤，提高其肥力，并分解动物粪便。
 
 19. When it is struck, a tuning fork produces an almost pure tone, retaining its pitch over a long period of time.
-
+tone music tune 声变曲 retain 拥有 keep 实物 period 阶段 cycle 循环周期
 19.音叉被敲击时，产生几乎纯质的音调，其音量经久不衰。
 
 20. Although pecans are most plentiful in the southeastern part of the United States, they are found as far north as Ohio and Illinois.
-
+abundant 溢出 > plentiful 全体
 20.虽然美洲山河桃树最集中于美国的东南部但是在北至俄亥俄州及伊利诺州也能看见它们。
 
 21. Eliminating problems by transferring the blame to others is often called scape-goating.
